@@ -99,7 +99,7 @@ module.exports = {
     calculator: sessionLevels,
     inputType: "bars",
     areaChoice: "overlay",
-    tags: ["My Indicators"],
+    tags: ["Crunch42"],
 
     params: {
         sessionStartHour: { type: "number", def: 18, restrictions: { step: 1, min: 0, max: 23 } },
